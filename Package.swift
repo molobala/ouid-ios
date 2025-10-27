@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "OUIRuntime",
-            url: "https://github.com/molobala/ouid-ios/releases/download/0.0.3/OUIRuntime.xcframework.zip",
-            checksum: "b7e4960669e462cf710235904aa7305205a30c3575a37afbe2977ffbf67af09d"
+            url: "https://github.com/molobala/ouid-ios/releases/download/0.0.4/OUIRuntime.xcframework.zip",
+            checksum: "c81fb45c719d98487cc80c231efd2b14a6c45ee3fd97b6ce3d1e63c279853ed4"
         )
     ]
 )
