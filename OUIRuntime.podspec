@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 
   s.source           = {
     :http   => 'https://github.com/molobala/ouid-ios/releases/download/0.0.4/OUIRuntime.xcframework.zip',
-    :sha256 => '49e835dcc517da2ef31cd8fbc28e8f621d699d4d10ed9a740cf3c471553131e4'
+    :sha256 => '55d4d58ff3ed28eab5115212d3182ca88b5647e17f098de14d1970c0abca7bff'
   }
 
   # The binary product
