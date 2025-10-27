@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.preserve_paths      = 'OUIRuntime.xcframework'
 
   s.frameworks = 'WebKit', 'JavaScriptCore'
-  s.ios.deployment_target = '12.0'
+  s.ios.deployment_target = '13.0'
 
   # If you built a DYNAMIC xcframework (default), you generally need `use_frameworks!` in the consuming Podfile.
   # If you rebuild OUIRuntime as a STATIC xcframework, uncomment this to force static linking:
