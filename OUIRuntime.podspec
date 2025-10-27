@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'OUIRuntime'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'OUIRuntime: webview + JSCore bridge runtime.'
   s.description      = <<-DESC
     OUIRuntime provides a WebKit + JavaScriptCore bridge, in-app bundle loader,
