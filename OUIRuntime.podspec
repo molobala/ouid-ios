@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'OUIRuntime'
-  s.version          = '0.0.2'
+  s.version          = '0.0.3'
   s.summary          = 'OUIRuntime: webview + JSCore bridge runtime.'
   s.description      = <<-DESC
     OUIRuntime provides a WebKit + JavaScriptCore bridge, in-app bundle loader,
@@ -15,8 +15,8 @@ Pod::Spec.new do |s|
   s.swift_versions   = ['5.7', '5.8', '5.9']
 
   s.source           = {
-    :http   => 'https://github.com/molobala/ouid-ios/releases/download/0.0.2/OUIRuntime.xcframework.zip',
-    :sha256 => '344ba3437a880f8ffaf1189494faad56d6b3e1232d3bed23f760f7ad6d5e83a4'
+    :http   => 'https://github.com/molobala/ouid-ios/releases/download/0.0.3/OUIRuntime.xcframework.zip',
+    :sha256 => 'b7e4960669e462cf710235904aa7305205a30c3575a37afbe2977ffbf67af09d'
   }
 
   # The binary product
